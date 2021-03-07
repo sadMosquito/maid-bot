@@ -1,0 +1,24 @@
+{
+  "name": "vlad",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "yanthedev",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.5",
+    "discord.js": "^12.5.1",
+    "gif-search": "^2.1.0",
+    "giphy": "0.0.4",
+    "nekos.life": "^2.0.7",
+    "request": "^2.88.2",
+    "tenorjs": "^1.0.7",
+    "typescript": "^4.2.2",
+    "wokcommands": "^1.2.1"
+  }
+}
