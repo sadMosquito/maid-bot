@@ -1,4 +1,2 @@
-#Uwu maid bot
-Aia e
-Am facut-o si p=asta
-
+#maid bot
+i did well
